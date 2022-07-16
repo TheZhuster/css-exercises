@@ -1,13 +1,13 @@
 .odd {
     background-color: rgb(233, 138, 138);
-    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
 #two {
     color: blue;
     font-size: 36px;
 }
-.odd.three {
+.three {
     font-size: 24px;
 }
 
